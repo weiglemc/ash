@@ -4,6 +4,8 @@ The package contains the entire jist-swans-1.0.6 source tree, including changes 
   * jist-swans-1.0.6/src/jist/swans/field/HighwayMobility.java
   * jist-swans-1.0.6/src/jist/swans/field/HighwayMobilityInfo.java
 
+Here we just distribute a source tarball in [Releases](https://github.com/weiglemc/ash/releases).  This is not under version control.
+
 Note: The source code is delivered 'as-is', and we cannot offer any support.
 
 Citation Request: If you use ASH in your work, please cite
