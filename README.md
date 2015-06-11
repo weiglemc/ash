@@ -1,4 +1,6 @@
-ASH - Application-aware SWANS with Highway Mobility
+# ASH - Application-aware SWANS with Highway Mobility
+
+*Automatically exported from code.google.com/p/ash*
 
 The package contains the entire jist-swans-1.0.6 source tree, including changes for ASH, found in 
   * jist-swans-1.0.6/src/jist/swans/field/HighwayMobility.java
